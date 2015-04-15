@@ -1,0 +1,13 @@
+# Site settings
+title: Ni Lihao's Blog
+email: nilihao@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  personal blog；powered by jekyll in github
+  O(∩_∩)O~~
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: 年糕
+github_username:  palewithout
+
+# Build settings
+markdown: kramdown
